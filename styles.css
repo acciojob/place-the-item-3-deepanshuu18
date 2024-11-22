@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+.holder{
+	display:flex;
+	background-color:grey;
+	height:100vh;
+	flex-wrap:wrap;
+	justify-content:space-evenly;
+	flex-direction:row;
+	
+}
+.iten{
+	background-color:red;
+	padding:200px;
+	margin:50%;
+}
